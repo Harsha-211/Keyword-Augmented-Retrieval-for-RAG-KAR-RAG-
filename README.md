@@ -20,6 +20,9 @@ This repository contains two core components:
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+# Clone the repository
+git clone https://github.com/Harsha-211/Keyword-Augmented-Retrieval-for-RAG-KAR-RAG-.git
+cd Keyword-Augmented-Retrieval-for-RAG-KAR-RAG-
+
+# Install the required dependencies
 pip install -r requirements.txt
